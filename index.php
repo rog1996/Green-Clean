@@ -79,7 +79,7 @@ body {
       <img src="img/Img1.jpg" height="200" width="550">
     </div>
     <div class="carousel-item">
-      <img src="mg/Img2.jpg" height="200" width="550">
+      <img src="img/Img2.jpg" height="200" width="550">
     </div>
     <div class="carousel-item">
       <img src="img/Img3.jpg" height="200" width="550">
