@@ -72,7 +72,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light " style="background-color: #abebc6;">
         <a class="navbar-brand" href="#">
-            <img src="img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
+            <img src="Img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
             Green & Clean
         </a>
 
@@ -82,7 +82,7 @@
                     <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="donar.php">Donar</a>
+                    <a class="nav-link" href="Donar.php">Donar</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
