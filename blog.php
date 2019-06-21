@@ -308,7 +308,7 @@
             <div class="profile-sidebar">
 
               <div class="profile-userpic">
-                <img src="Img/gc.jpg" style="display: block; height: 200px ; width: 200px ">
+                <img src="Img/GC.jpg" style="display: block; height: 200px ; width: 200px ">
               </div>
               <div class="profile-usertitle">
                 <div class="profile-usertitle-name">
