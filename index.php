@@ -43,7 +43,7 @@ body {
         <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="donar.php">Donar</a>
+        <a class="nav-link" href="Donar.php">Donar</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -103,7 +103,7 @@ body {
 
 <head>
   <style>
-    .outer { 
+    .outer {
       position: relative;
       width: 100%;
       padding-bottom: 13.3%;
@@ -112,7 +112,7 @@ body {
       position: absolute;
       width: 100%;
       height: 100%;
-      background-color:  #229954 ; 
+      background-color:  #229954 ;
     }
   </style>
 </head>
