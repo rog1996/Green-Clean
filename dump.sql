@@ -10,11 +10,7 @@
 /*!50503 SET NAMES utf8mb4 */;
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
-
-
--- Dumping database structure for gc
-CREATE DATABASE IF NOT EXISTS `gc` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci */;
-USE `gc`;
+barkrxukp71iy8vctedg
 
 -- Dumping structure for table gc.comentario
 CREATE TABLE IF NOT EXISTS `comentario` (
