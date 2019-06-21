@@ -33,7 +33,7 @@ body {
   <body>
 <nav class="navbar navbar-expand-lg navbar-light " style="background-color: #abebc6;">
  <a class="navbar-brand" href="#">
-    <img src="img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
+    <img src="Img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
     Green & Clean
   </a>
 
@@ -76,13 +76,13 @@ body {
    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/Img1.jpg" height="200" width="550">
+      <img src="Img/Img1.jpg" height="200" width="550">
     </div>
     <div class="carousel-item">
-      <img src="img/Img2.jpg" height="200" width="550">
+      <img src="Img/Img2.jpg" height="200" width="550">
     </div>
     <div class="carousel-item">
-      <img src="img/Img3.jpg" height="200" width="550">
+      <img src="Img/Img3.jpg" height="200" width="550">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
