@@ -11,7 +11,7 @@
     <script src="js/bootstrap.bundle.min.js"></script>
     <!-- titulo en la pestaña de la pagina -->
     <title>Green & Clean</title>
-   
+
 
   <style>
 div.a {
@@ -33,7 +33,7 @@ body {
   <body>
 <nav class="navbar navbar-expand-lg navbar-light " style="background-color: #abebc6;">
  <a class="navbar-brand" href="#">
-    <img src="img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
+    <img src="Img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
     Green & Clean
   </a>
 
@@ -64,10 +64,10 @@ body {
   <body>
 <form>
   <div class="form-group">
-    
+
       <label for="inputEmail4" style="width: 30% ; margin-left:35%" >Email</label>
       <input type="email" class="form-control" id="inputEmail4" placeholder="Email" style="width: 30% ; margin-left:35%">
-   
+
      <div class="form-group">
 
       <label for="inputPassword4" style="width: 30% ; margin-left:35%">Card Number</label>
@@ -81,23 +81,23 @@ body {
       <input type="text" class="form-control" id="inputCity" style="width: 15% ; margin-left:70%">
     </div>
     <div class="form-group col-md-4">
-   
+
          <label for="inputCity" style="width: 30%">Expiration Date</label>
       <input type="text" class="form-control" id="inputCity" style="width: 50% ">
     </div>
    </div>
   </div>
   <div class="form-group">
-  
+
     <label for="inputAddress"  style="width: 30% ; margin-left:35%">Address</label>
     <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St" style="width: 30% ; margin-left:35%">
-  
+
     </div>
   <div class="form-group">
-  
+
     <label for="inputAddress2"  style="width: 30% ; margin-left:35%">Address 2</label>
     <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor" style="width: 30% ; margin-left:35%">
- 
+
    </div>
   <div class="form-row">
     <div class="form-group col-md-6">
@@ -105,13 +105,13 @@ body {
       <input type="text" class="form-control" id="inputCity" style="width: 25% ; margin-left:70%">
     </div>
     <div class="form-group col-md-4">
-   
+
       <label for="inputState">State</label>
       <select id="inputState" class="form-control" style="width: 50% ">
         <option selected>Choose...</option>
         <option>...</option>
       </select>
-   
+
    </div>
   </div>
      <div class="form-group">
@@ -131,4 +131,3 @@ body {
    <a class="btn btn-success" href="" style="margin-left:35%">Submit</a>
 </form>
   </body>
-

@@ -67,7 +67,7 @@ if(isset($_POST["nombre"])) {
 <body>
     <nav class="navbar navbar-expand-lg navbar-light " style="background-color: #abebc6;">
         <a class="navbar-brand" href="#">
-            <img src="img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
+            <img src="Img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
             Green & Clean
         </a>
 

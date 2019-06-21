@@ -11,7 +11,7 @@
     <script src="js/bootstrap.bundle.min.js"></script>
     <!-- titulo en la pestaña de la pagina -->
     <title>Green & Clean</title>
-   
+
 
   <style>
 div.a {
@@ -33,7 +33,7 @@ body {
   <body>
 <nav class="navbar navbar-expand-lg navbar-light " style="background-color: #abebc6;">
  <a class="navbar-brand" href="#">
-    <img src="img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
+    <img src="Img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
     Green & Clean
   </a>
 
@@ -80,7 +80,7 @@ body {
 <img  src="Img/GC.jpg" style="display: block; margin-top: 1.9% ; margin-left: 40% ; height: 300px ; width: 300px ">
 <head>
   <style>
-    .outer { 
+    .outer {
       position: relative;
       width: 100%;
       padding-bottom: 10%;
@@ -89,7 +89,7 @@ body {
       position: absolute;
       width: 100%;
       height: 100%;
-      background-color:  #229954 ; 
+      background-color:  #229954 ;
     }
   </style>
 </head>
