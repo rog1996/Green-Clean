@@ -10,7 +10,7 @@ if(isset($_POST["nombre"])) {
 
     $conexion = abrirConexion();
 
-    $sql = "INSERT INTO `gc`.`usuario` (`nombre`, `apellido`, `fechaNacimiento`, `direccion`, `email`, `password`) VALUES (:nombre, :apellido, :fechaNacimiento, :direccion, :email, :password)";
+    $sql = "INSERT INTO `usuario` (`nombre`, `apellido`, `fechaNacimiento`, `direccion`, `email`, `password`) VALUES (:nombre, :apellido, :fechaNacimiento, :direccion, :email, :password)";
 
     $stmt = $conexion->prepare($sql);
 

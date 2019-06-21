@@ -9,7 +9,7 @@
 
         public function getNombreUsuario($given_idUsuario)
         {
-            $sql = "SELECT `nombre` FROM `gc`.`usuario` WHERE `idUsuario` = $given_idUsuario";
+            $sql = "SELECT `nombre` FROM `usuario` WHERE `idUsuario` = $given_idUsuario";
             $register = $this->conexion->query($sql);
 
             $result = $register->fetch(PDO::FETCH_ASSOC);
@@ -29,7 +29,7 @@
             return $tipo;
         }
     }
-    
 
-    
+
+
 ?>

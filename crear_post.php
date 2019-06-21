@@ -14,7 +14,7 @@
 
 <?php
     if (isset($_POST["titulo"])) {
-        $sql = "INSERT INTO `gc`.`post` (`titulo`, `descripcion`, `Tipo_idTipo`, `Usuario_idUsuario`, `fechaInicio`, `fechaFin`, `direccion`) VALUES (:titulo, :descripcion, :Tipo_idTipo, :Usuario_idUsuario, :fechaInicio, :fechaFin, :direccion)";
+        $sql = "INSERT INTO `post` (`titulo`, `descripcion`, `Tipo_idTipo`, `Usuario_idUsuario`, `fechaInicio`, `fechaFin`, `direccion`) VALUES (:titulo, :descripcion, :Tipo_idTipo, :Usuario_idUsuario, :fechaInicio, :fechaFin, :direccion)";
 
         $stmt = $conexion->prepare($sql);
 

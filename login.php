@@ -12,7 +12,7 @@
     if (!empty($_POST['email']) && !empty($_POST['password'])) {
 
         // Preparando la consulta para extraer los datos de la bd
-        $records = $conexion->prepare("SELECT `idUsuario`,`email`, `password` FROM `gc`.`usuario` WHERE `email` = :email;");
+        $records = $conexion->prepare("SELECT `idUsuario`,`email`, `password` FROM `usuario` WHERE `email` = :email;");
         $records->bindParam(":email", $_POST['email']);
         $records->execute();
         $results = $records->fetch(PDO::FETCH_ASSOC);

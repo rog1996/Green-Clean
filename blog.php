@@ -10,7 +10,7 @@
 
   $conexion = abrirConexion();
 
-  $records = $conexion->prepare('SELECT * FROM `gc`.`usuario` WHERE `idUsuario`=:idUsuario');
+  $records = $conexion->prepare('SELECT * FROM `usuario` WHERE `idUsuario`=:idUsuario');
   $records->bindParam(':idUsuario', $_SESSION['idUsuario']);
   $records->execute();
   $results = $records->fetch(PDO::FETCH_ASSOC);
@@ -21,7 +21,7 @@
 ?>
 
 <?php
-  $recordsPosts = $conexion->query("SELECT * FROM `gc`.`post` ORDER BY fechaInicio DESC");
+  $recordsPosts = $conexion->query("SELECT * FROM `post` ORDER BY fechaInicio DESC");
 ?>
 
 <?php

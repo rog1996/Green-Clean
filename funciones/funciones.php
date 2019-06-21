@@ -1,9 +1,9 @@
 <?php
 	function abrirConexion() {
-		$username = "root";
-		$password = "";
-		$server = "localhost";
-		$database = "gc";
+		$username = "undn4lcdeam90akk";
+		$password = "SCW6sM3b0v2OpJtCbSQG";
+		$server = "barkrxukp71iy8vctedg-mysql.services.clever-cloud.com";
+		$database = "barkrxukp71iy8vctedg";
 
 		try {
 		    $conn = new PDO("mysql:host=$server;dbname=$database;", $username, $password);
