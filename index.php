@@ -76,13 +76,13 @@ body {
    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="Img/img1.jpg" height="200" width="550">
+      <img src="img/Img1.jpg" height="200" width="550">
     </div>
     <div class="carousel-item">
-      <img src="Img/Img2.jpg" height="200" width="550">
+      <img src="mg/Img2.jpg" height="200" width="550">
     </div>
     <div class="carousel-item">
-      <img src="Img/img3.jpg" height="200" width="550">
+      <img src="img/Img3.jpg" height="200" width="550">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
