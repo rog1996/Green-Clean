@@ -349,6 +349,6 @@
           </div>
         </div>
         <a class="btn btn-success" href="crear_post.php" style=" margin-left: 7% ">Post</a>
-        <a class="btn btn-danger" href="logout.php" style=" margin-left: 7% ">Cerra Sesion</a>
+        <a class="btn btn-danger" href="logout.php" style=" margin-left: 7% ">Cerrar Sesion</a>
         <br>
         <br>
