@@ -218,7 +218,7 @@
 <body>
   <nav class="navbar navbar-expand-lg navbar-light " style="background-color: #abebc6;">
     <a class="navbar-brand" href="#">
-      <img src="img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
+      <img src="Img/GC.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
       Green & Clean
     </a>
 
@@ -278,7 +278,7 @@
               <div class="row post-content">
                 <div class="col-md-3">
                   <a href="#">
-                    <img src="img/GC.jpg" style="display: block; height: 150px ; width: 150px " alt=""
+                    <img src="Img/GC.jpg" style="display: block; height: 150px ; width: 150px " alt=""
                       class="img-responsive">
                   </a>
                 </div>
@@ -308,7 +308,7 @@
             <div class="profile-sidebar">
 
               <div class="profile-userpic">
-                <img src="img/gc.jpg" style="display: block; height: 200px ; width: 200px ">
+                <img src="Img/gc.jpg" style="display: block; height: 200px ; width: 200px ">
               </div>
               <div class="profile-usertitle">
                 <div class="profile-usertitle-name">
