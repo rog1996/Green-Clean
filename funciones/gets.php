@@ -21,7 +21,7 @@
 
         public function getNombreTipo($given_idTipo)
         {
-            $sql = "SELECT `tipo` FROM `gc`.`tipo` WHERE `idTipo` = $given_idTipo";
+            $sql = "SELECT `tipo` FROM `tipo` WHERE `idTipo` = $given_idTipo";
             $register = $this->conexion->query($sql);
             $result = $register->fetch(PDO::FETCH_ASSOC);
             $tipo= $result["tipo"];
